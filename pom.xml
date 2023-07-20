@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>multi-thread_design_patterns</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>patterns-single_threaded_execution</module>
+        <module>patterns-immutable</module>
+        <module>patterns-guarded_suspension</module>
+        <module>patterns-balking</module>
+        <module>patterns-producer_consumer</module>
+        <module>patterns-thread_pre_message</module>
+        <module>patterns-worker_thread</module>
+        <module>patterns-future</module>
+        <module>patterns-two_phase_termination</module>
+        <module>pattterns-specific_storage</module>
+        <module>patterns-active_object</module>
+        <module>patterns-read_write_lock</module>
+    </modules>
+    <dependencies>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-simple</artifactId>
+            <version>1.7.25</version>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>1.7.36</version>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.22</version>
+        </dependency>
+
+    </dependencies>
+
+</project>

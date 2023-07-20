@@ -1,0 +1,17 @@
+D:\javaStudy\GitWork\multi-thread_design_patterns\patterns-active_object\src\main\java\cn\cian\base\a12_2\activeObject\SchedulerThread.java
+D:\javaStudy\GitWork\multi-thread_design_patterns\patterns-active_object\src\main\java\cn\cian\base\a12_2\Main.java
+D:\javaStudy\GitWork\multi-thread_design_patterns\patterns-active_object\src\main\java\cn\cian\base\a12_2\MakerClientThread.java
+D:\javaStudy\GitWork\multi-thread_design_patterns\patterns-active_object\src\main\java\cn\cian\base\a12_2\activeObject\Proxy.java
+D:\javaStudy\GitWork\multi-thread_design_patterns\patterns-active_object\src\main\java\cn\cian\base\a12_2\activeObject\ActiveObject.java
+D:\javaStudy\GitWork\multi-thread_design_patterns\patterns-active_object\src\main\java\cn\cian\base\a12_2\activeObject\MethodRequest.java
+D:\javaStudy\GitWork\multi-thread_design_patterns\patterns-active_object\src\main\java\cn\cian\base\a12_2\activeObject\ActivationQueue.java
+D:\javaStudy\GitWork\multi-thread_design_patterns\patterns-active_object\src\main\java\cn\cian\base\a12_2\activeObject\FutureResult.java
+D:\javaStudy\GitWork\multi-thread_design_patterns\patterns-active_object\src\main\java\cn\cian\base\a12_2\activeObject\Result.java
+D:\javaStudy\GitWork\multi-thread_design_patterns\patterns-active_object\src\main\java\cn\cian\base\a12_2\activeObject\ActiveObjectFactory.java
+D:\javaStudy\GitWork\multi-thread_design_patterns\patterns-active_object\src\main\java\cn\cian\base\a12_2\activeObject\MakeStringRequest.java
+D:\javaStudy\GitWork\multi-thread_design_patterns\patterns-active_object\src\main\java\cn\cian\base\a12_2\activeObject\RealResult.java
+D:\javaStudy\GitWork\multi-thread_design_patterns\patterns-active_object\src\main\java\cn\cian\base\a12_2\AddClientThread.java
+D:\javaStudy\GitWork\multi-thread_design_patterns\patterns-active_object\src\main\java\cn\cian\base\a12_2\DisplayClientThread.java
+D:\javaStudy\GitWork\multi-thread_design_patterns\patterns-active_object\src\main\java\cn\cian\base\a12_2\activeObject\AddRequest.java
+D:\javaStudy\GitWork\multi-thread_design_patterns\patterns-active_object\src\main\java\cn\cian\base\a12_2\activeObject\DisplayStringRequest.java
+D:\javaStudy\GitWork\multi-thread_design_patterns\patterns-active_object\src\main\java\cn\cian\base\a12_2\activeObject\Servant.java

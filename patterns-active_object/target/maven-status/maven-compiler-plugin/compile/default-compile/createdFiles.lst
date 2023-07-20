@@ -1,0 +1,17 @@
+cn\cian\base\a12_2\activeObject\ActiveObject.class
+cn\cian\base\a12_2\activeObject\AddRequest.class
+cn\cian\base\a12_2\activeObject\MethodRequest.class
+cn\cian\base\a12_2\MakerClientThread.class
+cn\cian\base\a12_2\activeObject\ActiveObjectFactory.class
+cn\cian\base\a12_2\Main.class
+cn\cian\base\a12_2\activeObject\Servant.class
+cn\cian\base\a12_2\activeObject\Result.class
+cn\cian\base\a12_2\activeObject\DisplayStringRequest.class
+cn\cian\base\a12_2\AddClientThread.class
+cn\cian\base\a12_2\activeObject\MakeStringRequest.class
+cn\cian\base\a12_2\activeObject\FutureResult.class
+cn\cian\base\a12_2\activeObject\ActivationQueue.class
+cn\cian\base\a12_2\activeObject\RealResult.class
+cn\cian\base\a12_2\DisplayClientThread.class
+cn\cian\base\a12_2\activeObject\SchedulerThread.class
+cn\cian\base\a12_2\activeObject\Proxy.class

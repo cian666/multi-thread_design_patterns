@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="patterns-guarded_suspension" />
+        <module name="patterns-balking" />
+        <module name="pattterns-specific_storage" />
+        <module name="patterns-immutable" />
+        <module name="patterns-read_write_lock" />
+        <module name="patterns-two_phase_termination" />
+        <module name="patterns-thread_pre_message" />
+        <module name="patterns-active_object" />
+        <module name="patterns-worker_thread" />
+        <module name="patterns-future" />
+        <module name="patterns-single_threaded_execution" />
+        <module name="patterns-producer_consumer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="patterns-read_write" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

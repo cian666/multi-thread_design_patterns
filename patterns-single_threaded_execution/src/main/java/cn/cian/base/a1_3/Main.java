@@ -1,4 +1,7 @@
 package cn.cian.base.a1_3;
+
+import java.util.concurrent.FutureTask;
+
 /**
  * Single Threaded exxecution
  *
@@ -10,5 +13,6 @@ public class Main {
         new UserThread(gate, "Alice", "Alaska").start();
         new UserThread(gate, "Bobby", "Brazil").start();
         new UserThread(gate, "Chris", "Canada").start();
+
     }
 }
